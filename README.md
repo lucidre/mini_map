@@ -6,6 +6,6 @@ A new Flutter project.
 
 
 ## Video Walkthrough
- - [Video Location](https://flutter.dev/docs/get-started/codelab)
+ - [Video Location](https://youtu.be/tQ9mxzTxdNQ)
 
  
